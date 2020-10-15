@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\odev\bin\Debug\odev.exe.config
+C:\Users\USER\Desktop\odev\bin\Debug\odev.exe
+C:\Users\USER\Desktop\odev\bin\Debug\odev.pdb
+C:\Users\USER\Desktop\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\odev\obj\Debug\odev.Form1.resources
+C:\Users\USER\Desktop\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\USER\Desktop\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\odev\obj\Debug\odev.exe
+C:\Users\USER\Desktop\odev\obj\Debug\odev.pdb
